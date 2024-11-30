@@ -1,0 +1,9 @@
+.main-content {
+    margin-left: 300px; /* Sidebar ki width ke according */
+    padding-top: 80px; /* Adjust according to Navbar height */
+    padding: 20px;
+    background-color: #fff;
+    min-height: calc(100vh - 60px); /* Adjust for full viewport height minus Navbar height */
+    overflow-y: auto;
+  }
+  
